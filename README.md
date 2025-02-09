@@ -1,4 +1,4 @@
-Link: https://stepanovlab.netlify.app/
+# Link/Ссылка: https://stepanovlab.netlify.app/
 ---
 ### **ENG**  
 **ITI Site LB** is my second project, where I used **Bootstrap** and **jQuery** to create a responsive and interactive website. The project focused on implementing advanced styling and interactivity features to enhance the user experience.  
